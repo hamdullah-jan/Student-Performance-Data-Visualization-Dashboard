@@ -1,1 +1,11 @@
-
+Student_ID,Name,Age,Gender,Math,English,Science,Attendance,Grade
+1,Ali,20,Male,85,78,90,95,A
+2,Ahmed,21,Male,72,80,75,88,B
+3,Sara,20,Female,92,89,95,97,A+
+4,Ayesha,22,Female,65,70,68,80,C
+5,Hassan,21,Male,88,84,82,93,A
+6,Fatima,20,Female,76,79,85,90,B+
+7,Usman,23,Male,55,62,60,72,D
+8,Maryam,21,Female,90,94,91,98,A+
+9,Bilal,22,Male,68,74,70,85,B
+10,Zainab,20,Female,82,87,88,92,A
